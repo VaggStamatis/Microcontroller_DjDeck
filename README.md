@@ -21,11 +21,11 @@ By utilizing 4 buttons and a potentiometer connected to either an `Esp32 develop
 
 
 ## Wiring 
-- Wiring of an ESP32 to use as a DjDeck
+- Wiring of an ESP32 to use as a DjDeck  
 Using the pin _34_ for the analog input and the pins 27,26,25,33 for the digital inputs
 <img src="https://github.com/VaggStamatis/Microcontroller_DjDeck/blob/main/photos/DjDeck.png" width="600">
 
-- Wiring of an Arduino to use as a DjDeck
+- Wiring of an Arduino to use as a DjDeck  
 Using the pin _A0_ for the analog input and the pins 10,11,12,13 for the digital inputs 
 <img src="https://github.com/VaggStamatis/Microcontroller_DjDeck/blob/main/photos/ArduinoDjDeck.png" width="600"> 
 
