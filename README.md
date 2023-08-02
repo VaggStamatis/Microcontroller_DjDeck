@@ -30,3 +30,4 @@ By utilizing 4 buttons and a potentiometer connected to either an `Esp32 develop
 ## Creator 
 **Evangelos Stamatis** 
 email : evanstamatis@gmail.com
+Feel free to contanct me if you want any help and/or further explanation on the project 🙂
